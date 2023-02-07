@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>17.10.19 Versión estenográfica. Inicio de la construcción del Aeropuerto &#8216;General Felipe Ángeles&#8217;, desde la BAM Santa Lucía &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "eef558e6bd";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "3";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=0d2be8b1b6e80d9ede2f321e2993bfe3"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=0d2be8b1b6e80d9ede2f321e2993bfe3' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.16' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' type='text/css' media='all' />
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.0.5","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.0.5' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.0.5' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.0.5' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.16) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.16' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.4' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.0.5 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/17-10-19-version-estenografica-inicio-de-la-construccion-del-aeropuerto-general-felipe-angeles-desde-la-bam-santa-lucia/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=125459' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F17-10-19-version-estenografica-inicio-de-la-construccion-del-aeropuerto-general-felipe-angeles-desde-la-bam-santa-lucia%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F17-10-19-version-estenografica-inicio-de-la-construccion-del-aeropuerto-general-felipe-angeles-desde-la-bam-santa-lucia%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.4: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			body {
+	background: #691C32;
+}
+
+.header.type-1 .header-middle {
+    background-color: #691C32;
+}
+
+#footer .footer-top{
+	background-color: #691C32;
+}
+
+#footer .footer-bottom{
+	background-color: #691C32;
+	border-top-color: #691C32;
+}
+
+.header-bottom nav.navigation > .menu > ul > .current-menu-item > a, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current-menu-item > a, .header-bottom nav.navigation > .menu > ul > .current-menu-item > a:before, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current-menu-item > a:before, .header-bottom nav.navigation > .menu > ul > .current-menu-parent > a, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current-menu-parent > a, .header-bottom nav.navigation > .menu > ul > .current-menu-parent > a:before, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current-menu-parent > a:before, .header-bottom nav.navigation > .menu > ul > .current-menu-ancestor > a, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current-menu-ancestor > a, .header-bottom nav.navigation > .menu > ul > .current-menu-ancestor > a:before, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current-menu-ancestor > a:before, .header-bottom nav.navigation > .menu > ul > .current_page_item > a, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current_page_item > a, .header-bottom nav.navigation > .menu > ul > .current_page_item > a:before, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current_page_item > a:before, .header-bottom nav.navigation > .menu > ul > .current_page_parent > a, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current_page_parent > a, .header-bottom nav.navigation > .menu > ul > .current_page_parent > a:before, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current_page_parent > a:before, .header-bottom nav.navigation > .menu > ul > .current_page_ancestor > a, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current_page_ancestor > a, .header-bottom nav.navigation > .menu > ul > .current_page_ancestor > a:before, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current_page_ancestor > a:before{
+	background-color: #691C32;
+}
+
+.header-bottom nav.navigation > .menu > ul > li:hover > a, .header-bottom nav.navigation > .menu-primary-menu-container > ul > li:hover > a{
+	background-color: #691C32;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="fadaf4esyc6ggjqacqocqaaaa5q7yxus-f-5a5c8a56b-clienttons-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"32","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":20,"ak.ipv":6,"ak.proto":"http/1.1","ak.rid":"6d537872","ak.r":44169,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"2806:2f0:92c0:bc63::","ak.cport":36412,"ak.gh":"23.200.39.199","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1643929234","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==VOOLT30BaezD6nGf/rukNrJ+BX0pwfoWHTTY04/dizhA/VLlrWGDcEs2Ett+U9nb2wJ6IFQ54nsKNQJXiHHVg7TQ1wCdgt4yqTsXLohU0XQreWKgWNnQLC2IF7j+9rXvrT1DnCyleH2TOpou9C6KiwWwwVXDRY8nTUbQyQnCTbrsf8RdoozibrWmLHgSJo4ABMJSzkmGtHq7JPt2MfEI0v/7Ih0JtQfFqg4qe/OVItoxwdgd+qp6BpAWqGmllVJUXKo7xcxvWZgOL+QbtdGLF1pYvovg6pNnKw1QiYqtVPeOFhbMaz2mItqpDQV5UqX8Dz2iJPNG0v2b0hxmDYC4qoVn/7p42Vhdbe4NHXkGlkgHOwz1QH0xSj+0IhY8Mqb6ZdNu2wAe4JV7M8Nsa2YM3XDyuzdI98K8av6H9vaTn3U=","ak.pv":"17","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-125459 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2022/01/cover-2022-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a></li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-130645" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-130645"><a href="https://coronavirus.gob.mx/">Coronavirus COVID-19</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-61fc5d2de82bb" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>17.10.19 Versión estenográfica. Inicio de la construcción del Aeropuerto &#039;General Felipe Ángeles&#039;, desde la BAM Santa Lucía</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 17.10.19 Versión estenográfica. Inicio de la construcción del Aeropuerto &#8216;General Felipe Ángeles&#8217;, desde la BAM Santa Lucía 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-125459" class="post-125459 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2019/10/17-10-2019-INICIO-DE-LA-CONSTRUCCION-DEL-AEROPUERTO-INTERNACIONAL-GENERAL-FELIPE-ANGELES-BASEA-AEREA-MILITAR-SANTA-LUCIA-FOTO-012.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2019/10/17-10-2019-INICIO-DE-LA-CONSTRUCCION-DEL-AEROPUERTO-INTERNACIONAL-GENERAL-FELIPE-ANGELES-BASEA-AEREA-MILITAR-SANTA-LUCIA-FOTO-012-745x450.jpg" alt="17.10.19 Versión estenográfica. Inicio de la construcción del Aeropuerto &#039;General Felipe Ángeles&#039;, desde la BAM Santa Lucía" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">17.10.19 Versión estenográfica. Inicio de la construcción del Aeropuerto &#8216;General Felipe Ángeles&#8217;, desde la BAM Santa Lucía</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2019, Año del Caudillo del Sur, Emiliano Zapata</em></p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Amigas, amigos, integrantes de las Fuerzas Armadas, ciudadanos.</p>
+<p>Mexicanos todos:</p>
+<p>Me da mucho gusto estar en este acto que podemos llamar histórico, porque inicia la construcción de este aeropuerto civil y militar general Felipe Ángeles. Es el inicio de una obra importante y también es el poder demostrar en los hechos que se pueden resolver los problemas con eficiencia, con austeridad, con honestidad.</p>
+<p><audio src="http://presidente.gob.mx/wp-content/uploads/2019/10/2019-10-17-Inicio-de-la-construcción-del-Aeropuerto-General-Felipe-Ángeles-desde-la-BAM-Santa-Lucía.mp3" controls="controls"></audio></p>
+<div id="fb-root"></div>
+<p><script async="1" defer="1" crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&amp;version=v4.0"></script></p>
+<div class="fb-video" data-href="https://www.facebook.com/lopezobrador.org.mx/videos/459928561289523" data-width="500">
+<blockquote cite="https://www.facebook.com/lopezobrador.org.mx/videos/459928561289523/" class="fb-xfbml-parse-ignore"><p><a href="https://www.facebook.com/lopezobrador.org.mx/videos/459928561289523/">Inicio de la construcción del Aeropuerto Internacional &#039;General Felipe Ángeles&#039;, desde la Base Aérea Militar Santa Lucía</a></p>
+<p>Inicio de la construcción del Aeropuerto Internacional &#039;General Felipe Ángeles&#039;, desde la Base Aérea Militar Santa Lucía</p>
+<p>Publicado por <a href="https://www.facebook.com/lopezobrador.org.mx/">Andrés Manuel López Obrador</a> en Jueves, 17 de octubre de 2019</p></blockquote>
+</div>
+<p>Se está poniendo en práctica otro proyecto distinto al que se había iniciado para solucionar el problema de la saturación del actual aeropuerto de la Ciudad de México. Este es una decisión trascendente el haber optado por cancelar ese proyecto e iniciar esta nueva obra con el mismo propósito de resolver la saturación que tiene el Aeropuerto Benito Juárez de la Ciudad de México.</p>
+<p>La política es, entre otras cosas, optar entre inconvenientes, siempre hay que decidir. Se equivoca uno menos cuando se pone por delante el interés nacional, cuando por encima de los intereses personales, por legítimos que sean, se sitúa el interés colectivo, el interés de la nación. Y ese es el principio que aplicamos para tomar la decisión de construir este aeropuerto en Santa Lucía; además, se refrendó esta decisión con una consulta ciudadana, porque debe de haber democracia participativa y se tiene que tomar en cuenta la opinión de todos y al final decidir de acuerdo al mandato de las mayorías.</p>
+<p>En la democracia es el pueblo el que manda, es el pueblo el que decide y todos somos iguales. Todos los votos tienen el mismo peso, todos contamos, ricos o pobres. Por eso estamos aquí en este día importante en el que se da el banderazo de inicio de las obras del Aeropuerto Felipe Ángeles de Santa Lucía.</p>
+<p>¿Por qué consideramos mejor esta opción que la de construir el aeropuerto en el lago de Texcoco?</p>
+<p>Va a haber tiempo -la historia lo dirá- para demostrar, hablarán los hechos. Pero adelanto que fue mejor esta decisión, porque este es un mejor suelo para construir aquí donde estamos, es suelo firme, allá es un lago, no hay tierra firme, sólo a 30, 40, 50 metros de la superficie, es un lago, es fango, es una zona de hundimiento permanente. Claro que se puede hacer un aeropuerto hasta en medio de un océano, pero cuesta mucho construirlo y mantenerlo; por eso fue mejor el optar por Santa Lucía, por este suelo firme.</p>
+<p>También se decidió hacer aquí el aeropuerto porque va a costar menos, lo explicaba el licenciado Julio Scherer. No podemos hacer obras faraónicas habiendo tantas necesidades en nuestro país.</p>
+<p>Ese aeropuerto proyectado en Texcoco, en una estimación inicial, iba a costar 300 mil millones de pesos, mucho dinero; y a esto había que añadir los imprevistos. Baste poner el ejemplo del Tren Toluca-Ciudad de México, que se estimó inicialmente en 30 mil millones, se han ejercido 60 mil y para terminarlo se requieren otros 30 mil. De lo estimado, 30 mil millones, a 90 mil millones.</p>
+<p>Si esto -aunque es un simple supuesto- se hubiese repetido en el caso del proyecto de Texcoco estaríamos hablando de una inversión cercana a un billón de pesos.</p>
+<p>Por eso es mucho mejor esta opción, no vamos a ejercer esos 300 mil millones estimados. Aún con el pago de los bonos, la liquidación a las empresas constructoras que habían iniciado los trabajos en Texcoco, en total, cuando mucho, se van a ejercer 180 mil millones; es decir, nos vamos a ahorrar 120 mil millones de pesos, pero con ventajas adicionales, porque la construcción en Texcoco, los 300 mil millones, era para construir dos pistas y cancelar tres pistas, porque se iba a clausurar el actual aeropuerto de la Ciudad de México y este aeropuerto militar de Santa Lucía por interferencia aérea; es decir, se iban a construir dos pistas, íbamos a perder tres.</p>
+<p>Se estimaba también terminar el proyecto de Texcoco en el 2024, nos íbamos a pasar todo el sexenio construyendo esas dos pistas. Ahora -como aquí lo ha dicho y es una palabra de honor que se va a ser realidad- vamos a construir las dos pistas para la aviación civil en Santa Lucía en dos años y medio.</p>
+<p>Estaba haciendo la cuenta y vamos a estar inaugurando este nuevo aeropuerto en abril del 2022. Si ya andamos en esto, yo le voy a pedir al general Vallejo que procuremos inaugurarlo el 21 de marzo del 2022. El ingeniero Vallejo pues tiene mucha energía acumulada, porque como se interpusieron los amparos y él ya está listo para iniciar, estoy seguro que va a cumplir con este compromiso.</p>
+<p>Y vamos a contar para el 21 de marzo del 22 con un sistema aeroportuario metropolitano. También es importante tomar en cuenta que se van a tener aquí dos pistas de aviación civil, la pista militar, tres, las dos pistas del aeropuerto actual Benito Juárez y la pista del Aeropuerto de Toluca.</p>
+<p>En el caso de Toluca -y aquí está el ciudadano gobernador, que lo sabe muy bien- ese aeropuerto tiene capacidad para recibir más vuelos para poder ayudar mucho a satisfacer la demanda de pasajeros.</p>
+<p>Y ya estamos con el gobernador, con el secretario de Comunicaciones y Transportes, ingeniero Javier Jiménez Espriú, que aprovecho para hacerle un reconocimiento por todo su trabajo en esta materia de comunicación como responsable de la secretaría, que es la coordinadora de la construcción de este aeropuerto, su función normativa de la Secretaría de Comunicaciones y Transportes.</p>
+<p>Estamos hablando porque el aeropuerto de Toluca también se integra al sistema y esto va a permitir que un mayor número de vuelos, de más transportación aérea.</p>
+<p>Recapitulando: es la pista de Toluca, dos del Aeropuerto Benito Juárez, lo que suma tres pistas, y tres aquí, seis pistas.</p>
+<p>Vamos a resolver el problema para el largo plazo, para según los técnicos, 80 años hacia adelante con este sistema.</p>
+<p>Quiero hacer un reconocimiento especial a las Fuerzas Armadas por su apoyo, por su respaldo. Se podía tomar la decisión, tener la idea general, pero lo importante es tener la capacidad ejecutiva que se tiene en la Secretaría de la Defensa, en esta institución de instituciones que es la Secretaría de la Defensa, y desde luego también la Secretaría de Marina, que trabajan de manera conjunta las Fuerzas Armadas de México.</p>
+<p>Por eso se va a convertir en realidad este ideal, porque tenemos capacidad de ejecución, capacidad operativa. Los ingenieros del Ejército mexicano son una garantía por su profesionalismo, por su eficiencia, por su vocación de trabajo, por su disciplina.</p>
+<p>Esto nos da la confianza de que vamos a cumplir en tiempo, en forma, con el presupuesto que está estimado para la construcción de este aeropuerto, en particular 75 mil millones de pesos en lo que tiene que ver con la construcción. Hablé de 180 por los bonos que se pagaron por la liquidación a empresas, así en términos muy generales; pero este aeropuerto se estima va a significar una inversión de 75 mil millones de pesos. Contamos con el presupuesto para iniciar, ya tenemos presupuesto, nunca se va a detener la obra por falta de presupuesto.</p>
+<p>Es muy importante, repito, el apoyo de las Fuerzas Armadas. Muy importante también -porque la forma es fondo- que este aeropuerto lleve el nombre del general Felipe Ángeles, que está cumpliendo en este año, en el mes de noviembre, 100 años de su fusilamiento, de lo que consideramos fue un crimen a un general profesional, un general de mucha honra, de mucho prestigio, posiblemente -estoy pensando en voz alta- el general con más humanismo que se haya tenido en la historia de nuestro país, Felipe Ángeles.</p>
+<p>Es un reconocimiento a este gran general, por cierto, hidalguense. Aquí muy cerca de Santa Lucía está el estado de Hidalgo, donde nació el general Felipe Ángeles. Este es su homenaje, además de recordarlo siempre con afecto y con cariño.</p>
+<p>Es para nosotros muy importante, reitero, este acto, vamos a estar pendientes para que no se detenga esta obra.</p>
+<p>Es importante decir también que como enfrentamos una especie de sabotaje legal, porque se interpusieron 140 amparos, yo creo que nunca había sucedido una cosa parecida en lo que corresponde a una obra pública, y se cumplió legalmente con todo el procedimiento hasta que el día de ayer ya la autoridad judicial nos permitió iniciar esta obra, como había un grupo interesado en que no se llevara a cabo esta obra, a los cuales, por cierto, no los vemos como enemigos, nosotros no tenemos enemigos ni queremos tenerlos, tenemos adversarios; siempre ha sido así en la historia de México y en la historia del mundo.</p>
+<p>En la historia de nuestro país siempre ha habido dos grandes agrupamientos: los liberales y los conservadores. Ahora los conservadores no están contentos.</p>
+<p>¿Qué es el conservadurismo?</p>
+<p>Pues es mantener las cosas como estaban, mantener el statu quo, conservar privilegios. Eso se ha enfrentado siempre en la historia, y sobre todo en el periodo de la Reforma y de la intervención, que los conservadores no querían los cambios, no querían las reformas, y se atrevieron incluso a ir al extranjero a traer a un príncipe, a una emperatriz para que dominaran y gobernaran México.</p>
+<p>Pero los liberales de ese entonces, encabezados por Juárez, mantuvieron una fe inquebrantable en la causa que defendían y se logró restaurar la República. Se alejó el sistema monárquico y se afianzó nuestra independencia, se logró la segunda independencia de México.</p>
+<p>Siempre ha habido conservadores, pero no por eso los podemos ver como enemigos a destruir, pueden ser adversarios a vencer y eso con argumentos, vencerlos con la razón, con el derecho. Nada por la fuerza, decía el presidente Juárez, todo por la razón y el derecho.</p>
+<p>Por esa embestida, se tuvo que optar por considerar esta obra como de seguridad nacional para poder aligerar el proceso legal. Pero ya pasó este proceso legal y ahora puedo informarles a todos los mexicanos que esta obra que se construye en una instalación militar y que sí tiene que considerarse como una obra de seguridad nacional va a tener, a pesar de eso, toda la información transparente, se va a manejar toda la información con transparencia.</p>
+<p>A partir de hoy, esto me lo informó el general Luis Cresencio Sandoval y el general Vallejo- se va a difundir toda la información sobre la construcción del aeropuerto. Transparencia completa, no ocultar absolutamente nada; de modo que todos los ciudadanos le van a dar seguimiento, le vamos a dar seguimiento a esta obra.</p>
+<p>Agradezco mucho el apoyo de los servidores públicos que han participado en este importante proyecto:</p>
+<p>A Román Meyer, secretario de Desarrollo Urbano, que nos ayudó mucho para adquirir terrenos adicionales a la Base Aérea de Santa Lucía, que van a ayudar para la construcción de instalaciones, de comercios, de hoteles, lo que se está haciendo para tener, contar con el derecho de vía.</p>
+<p>De manera especial, el gobernador del Estado de México, Alfredo del Mazo, nos ayudó mucho para la regularización de la tenencia de la tierra.</p>
+<p>Y hemos contado con el apoyo de muchas, muchas autoridades municipales, estatales, del gobierno federal.</p>
+<p>Y seguimos contando con el apoyo, con el respaldo de los ciudadanos, de quienes nos están avalando, porque saben que no les vamos a fallar, no vamos nosotros a traicionar la confianza que han depositado millones de mexicanos en este nuevo gobierno. Se va a convertir en una realidad la Cuarta Transformación de la vida pública de México.</p>
+<p>Agradecerle mucho también a los medios de información, cada vez más profesionales, más objetivos, más cercanos al pueblo, a la sociedad, distantes -como debe ser- del poder, tanto del poder económico como del poder político, y con apego siempre a la verdad.</p>
+<p>Muchas gracias a todas, a todos ustedes.</p>
+<p>Y, repito, hoy es un día histórico.</p>
+<p>¡Y que viva el nuevo aeropuerto de Santa Lucía!</p>
+<p>¡Y que viva el general Felipe Ángeles!</p>
+<p>¡Viva México!</p>
+<p>¡Viva México!</p>
+<p>¡Viva México!</p>
+<p>---</p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="media_image-13" class="widget widget_media_image"><a href="https://presidente.gob.mx/primer-informe-de-gobierno-2018-2019/"><img width="350" height="131" src="https://presidente.gob.mx/wp-content/uploads/2019/09/Boton-logo-informe.jpg" class="image wp-image-123636  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2019/09/Boton-logo-informe.jpg 350w, https://presidente.gob.mx/wp-content/uploads/2019/09/Boton-logo-informe-300x112.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" /></a></div><div id="media_image-12" class="widget widget_media_image"><a href="https://presidente.gob.mx/segundo-informe-de-gobierno-2020/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2020/09/LOGO-segundo-informe.jpg" class="image wp-image-134002  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2020/09/LOGO-segundo-informe.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2020/09/LOGO-segundo-informe-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-11" class="widget widget_media_image"><a href="https://presidente.gob.mx/tercer-informe-de-gobierno/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2021/09/Tercer-Informe-relieve.png" class="image wp-image-143117  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2021/09/Tercer-Informe-relieve.png 700w, https://presidente.gob.mx/wp-content/uploads/2021/09/Tercer-Informe-relieve-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-10" class="widget widget_media_image"><a href="https://coronavirus.gob.mx/"><img width="1024" height="324" src="https://presidente.gob.mx/wp-content/uploads/2020/03/Institucional_3-1024x324.jpg" class="image wp-image-130680  attachment-large size-large" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2020/03/Institucional_3-1024x324.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2020/03/Institucional_3-300x95.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2020/03/Institucional_3-768x243.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="https://aprendeencasa.sep.gob.mx/">Aprende en casa II</a></li>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' id='wp-embed-js'></script>
+
+</body>
+</html>

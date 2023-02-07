@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="es">     <![endif]-->
+<!--[if IE 9]>					<html class="ie9 no-js" lang="es">     <![endif]-->
+<!--[if !(IE)]><!-->			<html class="not-ie no-js" lang="es">  <!--<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<!--[if ie]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
+		<!-- <link rel="shortcut icon" href="http://151.394.mwp.accessdomain.com/wp-content/themes/diplomat/favicon.ico" type="image/x-icon" /> -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<link rel="alternate" type="application/rss+xml" title="Presidente de México RSS Feed" href="https://presidente.gob.mx/feed/" />
+		<link rel="pingback" href="https://presidente.gob.mx/xmlrpc.php" />
+
+		
+		<title>12.09.21 Versión estenográfica. Inauguración del Centro de Rehabilitación y Educación Especial, desde Tepic, Nayarit &#8211; Presidente de México</title>
+
+		<script type="text/javascript">
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		</script>
+
+				<style type="text/css" media="print">#wpadminbar { display: none; }</style>
+		<script type="text/javascript">
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "eef558e6bd";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "3";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		</script>
+		<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed" href="https://presidente.gob.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Presidente de México &raquo; Feed de los comentarios" href="https://presidente.gob.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=0d2be8b1b6e80d9ede2f321e2993bfe3"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='arqam-style-css'  href='https://presidente.gob.mx/wp-content/plugins/arqam/assets/style.css?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%7CRoboto%7CPT+Serif%7CDroid+Serif%7CMontserrat&#038;subset=latin%2Ccyrillic&#038;ver=0d2be8b1b6e80d9ede2f321e2993bfe3' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_fontello-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/css/fontello.css?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://presidente.gob.mx/wp-includes/css/dist/block-library/style.min.css?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.16' type='text/css' media='all' />
+<link rel='stylesheet' id='events_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/styles.css?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' type='text/css' media='all' />
+<link rel='stylesheet' id='events_calendar_css-css'  href='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/css/calendar.css?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_theme_style-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/styles.css?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' type='text/css' media='all' />
+<link rel='stylesheet' id='tmm_custom2-css'  href='https://presidente.gob.mx/wp-content/themes/diplomat/css/custom2.css?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' type='text/css' media='all' />
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='layerslider-utils-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.0.5","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.0.5' id='layerslider-utils-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.0.5' id='layerslider-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.0.5' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/modernizr.min.js?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' id='tmm_modernizr-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.16) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.16' id='foobox-free-min-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.4' id='ga-external-tracking-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.0.5 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://presidente.gob.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://presidente.gob.mx/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://presidente.gob.mx/12-09-21-version-estenografica-inauguracion-del-centro-de-rehabilitacion-y-educacion-especial-desde-tepic-nayarit/" />
+<link rel='shortlink' href='https://presidente.gob.mx/?p=143363' />
+<link rel="alternate" type="application/json+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F12-09-21-version-estenografica-inauguracion-del-centro-de-rehabilitacion-y-educacion-especial-desde-tepic-nayarit%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://presidente.gob.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpresidente.gob.mx%2F12-09-21-version-estenografica-inauguracion-del-centro-de-rehabilitacion-y-educacion-especial-desde-tepic-nayarit%2F&#038;format=xml" />
+
+		<style type="text/css" media="screen">
+			
+		</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="32x32" />
+<link rel="icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<meta name="msapplication-TileImage" content="https://presidente.gob.mx/wp-content/uploads/2022/01/Presidencia-favicon-rojo.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.4: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+		<style type="text/css" id="wp-custom-css">
+			body {
+	background: #691C32;
+}
+
+.header.type-1 .header-middle {
+    background-color: #691C32;
+}
+
+#footer .footer-top{
+	background-color: #691C32;
+}
+
+#footer .footer-bottom{
+	background-color: #691C32;
+	border-top-color: #691C32;
+}
+
+.header-bottom nav.navigation > .menu > ul > .current-menu-item > a, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current-menu-item > a, .header-bottom nav.navigation > .menu > ul > .current-menu-item > a:before, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current-menu-item > a:before, .header-bottom nav.navigation > .menu > ul > .current-menu-parent > a, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current-menu-parent > a, .header-bottom nav.navigation > .menu > ul > .current-menu-parent > a:before, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current-menu-parent > a:before, .header-bottom nav.navigation > .menu > ul > .current-menu-ancestor > a, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current-menu-ancestor > a, .header-bottom nav.navigation > .menu > ul > .current-menu-ancestor > a:before, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current-menu-ancestor > a:before, .header-bottom nav.navigation > .menu > ul > .current_page_item > a, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current_page_item > a, .header-bottom nav.navigation > .menu > ul > .current_page_item > a:before, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current_page_item > a:before, .header-bottom nav.navigation > .menu > ul > .current_page_parent > a, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current_page_parent > a, .header-bottom nav.navigation > .menu > ul > .current_page_parent > a:before, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current_page_parent > a:before, .header-bottom nav.navigation > .menu > ul > .current_page_ancestor > a, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current_page_ancestor > a, .header-bottom nav.navigation > .menu > ul > .current_page_ancestor > a:before, .header-bottom nav.navigation > .menu-primary-menu-container > ul > .current_page_ancestor > a:before{
+	background-color: #691C32;
+}
+
+.header-bottom nav.navigation > .menu > ul > li:hover > a, .header-bottom nav.navigation > .menu-primary-menu-container > ul > li:hover > a{
+	background-color: #691C32;
+}		</style>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144481486-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+</script>	
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="fadaf4esyc6ggjqacqopaaaaabq7yvz4-f-9e1513848-clienttons-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"32","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":19,"ak.ipv":6,"ak.proto":"http/1.1","ak.rid":"4eccc7e4","ak.r":42036,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"2806:2f0:92c0:bc63::","ak.cport":37076,"ak.gh":"184.87.197.45","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1643927356","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==RJ3GI5gfwwquyT0ihLA14CemOsX+Uzo9gIKjxBEyfw4kSzZK3pE6BgMd6YvfCMhXsRCuHoWGO1qsWYjrEHvpjyH035AQ8ofAtVFQouc4m9vPn4FPT2L3A/dvYrP01nPaGass+Jpm2fY616XCr2fXjihdYkNCGxzAukzBj4prlubWT1Cc+aSXe1idy6tE69VMKamE4fwzJFyjklkt20a1RUMb37qwtZnJ7aO8t3pHEZG5Lu4qDpEv43ZkF1fj2z/IXgzroQaWdaeghQuzOm6pKLhtAwipe8ntUB9TjO/kXvVtUkojZx8lf5ZZrhLtO6wZL0/pRic6VePk8hZ5a9vnN3AjQbPFCsl6abvqOZTpOdw4ktITh/8Oa5BuyCYScxBdiNYb+/Dg2t3400JElZFw0nk48RIxA7ljWYHfxQGKwRI=","ak.pv":"17","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+	<body class="post-template-default single single-post postid-143363 single-format-standard custom-background header-fixed animated">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+       
+		<div id="fb-root"></div>
+                	
+        <!-- - - - - - - - - - - - - - Wrapper - - - - - - - - - - - - - - - - -->
+
+        <div id="wrapper">
+
+	        <!-- - - - - - - - - - - - - Mobile Menu - - - - - - - - - - - - - - -->
+
+	        <nav id="mobile-advanced" class="mobile-advanced"></nav>
+
+	        <!-- - - - - - - - - - - - end Mobile Menu - - - - - - - - - - - - - -->
+                
+            <!-- - - - - - - - - - - - Header - - - - - - - - - - - - - -->
+
+            
+<header id="header" class="header type-1">
+
+	<div class="header-top">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				
+<ul class="social-icons">
+
+	
+</ul><!--/ .social-icons-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-top-->
+
+	<div class="header-middle">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+				<div class="header-middle-entry">
+
+						<div class="logo">
+		<a class="tmm_logo" title="Presidente de México" href="https://presidente.gob.mx">
+			<img height="500" width="1640" src="https://presidente.gob.mx/wp-content/uploads/2022/01/cover-2022-1.png" alt="Presidente de México" />
+		</a>
+	</div>
+	
+					<div class="account">
+
+						
+						<!-- - - - - - - - - - - - - Donate Button - - - - - - - - - - - - - - -->
+
+							
+						<!-- - - - - - - - - - - - - end Donate Button - - - - - - - - - - - - -->
+
+					</div>
+
+				</div>
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-middle-->
+
+	<div class="header-bottom">
+
+		<div class="row">
+
+			<div class="large-12 columns">
+
+				<nav id="navigation" class="navigation top-bar" data-topbar role="navigation">
+
+						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-111936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-111936"><a href="https://presidente.gob.mx">Inicio</a></li>
+<li id="menu-item-111964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111964"><a href="https://presidente.gob.mx/sala-de-prensa/">Sala de Prensa</a>
+<ul class="sub-menu">
+	<li id="menu-item-112186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112186"><a href="https://presidente.gob.mx/sala-de-prensa/boletines/">Boletines</a></li>
+	<li id="menu-item-111786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111786"><a href="https://presidente.gob.mx/sala-de-prensa/transcripciones/">Transcripciones</a></li>
+	<li id="menu-item-118108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118108"><a href="https://presidente.gob.mx/documentos/">Documentos</a></li>
+	<li id="menu-item-98894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98894"><a href="https://presidente.gob.mx/sala-de-prensa/fotogalerias/">Fotogalería</a></li>
+	<li id="menu-item-125355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125355"><a href="https://presidente.gob.mx/multimedia/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-130645" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-130645"><a href="https://coronavirus.gob.mx/">Coronavirus COVID-19</a></li>
+<li id="menu-item-138549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138549"><a href="https://presidente.gob.mx/gabinete-3-2/">Gabinete</a></li>
+<li id="menu-item-136675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136675"><a href="https://presidente.gob.mx/oficina-de-la-presidencia-2/">Oficina de la Presidencia</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://presidente.gob.mx/biografia/">Biografía</a></li>
+<li id="menu-item-121787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121787"><a href="https://presidente.gob.mx/contacto/">Contacto</a></li>
+</ul></div>						
+
+<div class="search-form-nav">
+	<form method="get" id="searchform-61fc55d77a922" action="https://presidente.gob.mx/">
+		<fieldset>
+			<input placeholder="Search" type="text" name="s" autocomplete="off" value="" class="advanced_search" />
+			<button type="submit" class="submit-search">Search</button>
+		</fieldset>
+	</form>
+</div>
+
+						
+				</nav><!--/ .navigation-->
+
+
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .header-bottom-->
+
+</header><!--/ #header-->
+
+            <!-- - - - - - - - - - - - end Header - - - - - - - - - - - - - -->
+                
+
+			<!-- - - - - - - - - - - - - - Main - - - - - - - - - - - - - - - - -->
+
+	        
+			<main id="content" class="row sbr">
+
+				
+	<div class="large-12 columns">
+		<div class="page-title">
+
+			
+					<h1 class='font-small'>12.09.21 Versión estenográfica. Inauguración del Centro de Rehabilitación y Educación Especial, desde Tepic, Nayarit</h1>
+
+									
+				
+
+
+				
+													
+
+							
+
+			
+					<div class="breadcrumbs">
+						<a href="https://presidente.gob.mx" title="">Home</a> <a href="https://presidente.gob.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a> 12.09.21 Versión estenográfica. Inauguración del Centro de Rehabilitación y Educación Especial, desde Tepic, Nayarit 					</div><!--/ .breadcrumbs-->
+
+					
+		</div>
+	</div>
+
+
+				<section id="main" class="medium-8 large-8 columns">
+
+		<article id="post-143363" class="post-143363 post type-post status-publish format-standard has-post-thumbnail hentry category-version-estenografica">
+
+		    <div class="post full-width">
+
+				
+	<a href="https://presidente.gob.mx/wp-content/uploads/2021/09/12-09-21-INAUGURACION-DEL-CENTRO-DE-REHABILITACION-Y-EDUCACION-ESPECIAL-DESDE-TEPIC-NAYARIT-FOTO-2.jpg" class="image-post item-overlay single-image-link" >
+		<img  src="https://presidente.gob.mx/wp-content/uploads/2021/09/12-09-21-INAUGURACION-DEL-CENTRO-DE-REHABILITACION-Y-EDUCACION-ESPECIAL-DESDE-TEPIC-NAYARIT-FOTO-2-745x450.jpg" alt="12.09.21 Versión estenográfica. Inauguración del Centro de Rehabilitación y Educación Especial, desde Tepic, Nayarit" />
+	</a>
+
+	
+			    <header class="entry-header">
+
+				    <h2 class="entry-title">12.09.21 Versión estenográfica. Inauguración del Centro de Rehabilitación y Educación Especial, desde Tepic, Nayarit</h2>
+
+				    
+
+			    </header>
+
+			    <div class="entry-content">
+
+				    <p style="text-align: right;"><em>2021: Año de la Independencia</em></p>
+<p>&nbsp;</p>
+<p><strong>PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:</strong> Amigas, amigos de Tepic, del estado de Nayarit:</p>
+<p>Me da mucho gusto estar de nuevo en Nayarit, ahora para inaugurar este Centro de Rehabilitación y Educación Especial.</p>
+<p>Hace algunos años, cuando fui jefe de Gobierno en la Ciudad de México, me tocó iniciar el programa de pensiones para discapacidad, desde hace aproximadamente 20 años, al mismo tiempo que me tocó iniciar el programa de la pensión de los adultos mayores, y ya ahora esos programas están convertidos en derechos, ya se elevaron a rango constitucional, son de aplicación obligatoria para los gobiernos y se tienen que entregar recursos anuales, esto está establecido en el artículo 4º de la Constitución y también en un transitorio de la Constitución, en donde no pueden entregarse menos recursos de un año a otro para estos programas, como tampoco para las becas de estudiantes de familias pobres; y también ya es una realidad el derecho a la salud, atención médica y medicamentos gratuitos.</p>
+<p><audio src="http://presidente.gob.mx/wp-content/uploads/2021/09/Inauguracion-del-Centro-de-Rehabilitacion-y-Educacion-Especial-desde-Tepic-Nayarit.mp3" controls="controls"></audio></p>
+<p><iframe src="//www.youtube.com/embed/f8QPh3G6TWU?t=1090" width="600" height="400" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Esto es lo que nosotros llamamos Estado de bienestar y es a lo que aspiramos, a que cada vez se mejore más la situación económica y social de los mexicanos, que podamos hacer realidad el ideal de que el mexicano tenga seguridad social desde que nace hasta que muere, desde la cuna hasta la tumba; que no importe la condición económica para que todos tengamos garantizados los derechos a la salud, a la educación, a la seguridad social.</p>
+<p>Me da mucho gusto por eso estar en este centro de rehabilitación porque teníamos desde entonces esta asignatura pendiente, esta demanda sentida que no se podía atender. Ayudamos ahora a un millón de niñas y niños con discapacidad con una pensión, y es bueno porque las familias tienen para comprar lo indispensable.</p>
+<p>Y también, desde que se inició el programa, teníamos la preocupación de que no bastaba con ese apoyo económico, que teníamos que ocuparnos de la rehabilitación. Lo acabo de mencionar ahora que recorrimos el centro, hay muchas niñas, niños con discapacidades menores, no graves, que, con tratamiento, con terapias, con rehabilitación, pueden mejorar.</p>
+<p>Si no tienen ese tratamiento, esa atención, porque no hay centros de rehabilitación, no tienen recursos económicos las familias, pues esa discapacidad leve se convierte en una discapacidad grave de por vida. Entonces, por eso esto es un complemento fundamental al programa de apoyo a niñas y a niños con discapacidad.</p>
+<p>Esto nos llevó a que hace unos días, un mes, un poco más, firmamos un acuerdo con el Teletón, que tiene centros de rehabilitación en el país, que por situaciones económicas tenía esos centros subutilizados, con equipos, con personal, pero no tenían para operarlos a toda su capacidad y celebramos un convenio.</p>
+<p>Es el primer acuerdo que hacemos con una organización civil para entregarles recursos, porque antes se entregaba a diestra y siniestra presupuesto a organizaciones sociales, civiles, y no había buenos resultados, se desviaban recursos. Es la primera vez que estamos haciendo un convenio para entregar recursos a una asociación que tiene como propósito la rehabilitación de niñas y de niños, y vamos a poder dar atención médica, terapias, rehabilitación, a 20 mil niñas y niños.</p>
+<p>En el caso de Nayarit no hay un Centro Teletón, por eso fue muy importante el que se rehabilitara, se construyera este nuevo centro de rehabilitación, porque se va a seguir atendiendo -y de mejor forma- a quienes lo necesitan.</p>
+<p>Yo, la verdad, felicito a Toño, a su esposa, que tuvieron esta iniciativa, y por eso quise estar aquí antes de que ellos entreguen, terminen su mandato, su responsabilidad, su encargo. Muchas gracias por todo lo que se ha hecho.</p>
+<p>Yo opino que Nayarit tuvo la suerte de contar con un buen gobernador en estos seis años, bueno, cuatro, porque hasta eso lo limitaron, a mí también me están quitando dos meses; pero cuando se trabaja, se aplica uno a fondo… Siempre recuerdo la fórmula de San Benito, que como los monjes pasaban mucho tiempo en los conventos en la meditación puso orden, y dijo: ‘De las 24 horas del día, ocho para meditar, para pensar, ocho para trabajar y ocho para descansar’, pero nosotros ya no tenemos mucho que pensar ni meditar, entonces son 16 horas para trabajar y ocho para descansar, esa es la fórmula.</p>
+<p>Entonces, por eso se hicieron muchas cosas buenas en Nayarit. Toño fue un buen, es un buen gobernador que está todavía en funciones. Y trabajamos de manera coordinada. Y a veces no se advierte lo que significa un buen gobierno, incluso se pueden hacer obras así, monumentales, y no se alcanza a internalizar la importancia de las buenas obras de gobierno, lo que hacen los buenos gobiernos; mucho menos, cuando se trata de temas como la seguridad.</p>
+<p>Si yo fuese nayarita y me preguntaran qué fue lo mejor que hizo el gobierno actual, el gobierno de Antonio Echevarría, yo diría: Nos dio seguridad, nos devolvió la tranquilidad a Nayarit, porque ya saben que yo soy andariego y desde hace muchos años recorro todo el país, y conozco a todo Nayarit y conozco todo México, tengo esa dicha de conocer todos los municipios del país, los cerca de dos mil 500 municipios y los he visitado más de una vez; entonces, sé cómo se vivía, se padecía de inseguridad y de violencia en este estado y cómo cambiaron completamente las cosas. Por eso le agradecemos mucho a Antonio.</p>
+<p>Y estamos seguros de que va a continuar Nayarit por esa senda de progreso y de bienestar para el pueblo, porque también conocemos mucho al doctor Navarro, que es de los precursores de nuestro movimiento y él va a continuar trabajando, no tengo la menor duda, en beneficio del pueblo de Nayarit y va a seguir Nayarit contando con el apoyo del gobierno federal, todos los recursos que se requieran para el desarrollo de Nayarit.</p>
+<p>Nada más le dicté ahora a Daniel algunos de los compromisos, pero hay muchas otras cosas.</p>
+<p>Decirles a los nayaritas de que continúan todos los Programas de Bienestar y, por ejemplo, las pensiones se van a incrementar, van a recibir más los adultos mayores y ya van a empezar a entregarse las pensiones a partir de los 65 años, ya se están inscribiendo adultos mayores.</p>
+<p>Y, como dije, va a continuar la pensión para niñas, niños con discapacidad, las becas para todos los estudiantes de familias humildes, de familias pobres de Nayarit; vamos a seguir apoyando al campo, vamos a seguir apoyando a los pescadores, va a continuar todo programa de apoyo a la educación, de apoyo a la salud en Nayarit y obras muy específicas.</p>
+<p>Por ejemplo, estoy pendiente para que se termine la autopista de Vallarta a Las Varas, que se termine la autopista de Las Varas a Compostela, que se siga ampliando la carretera libre costera de Nayarit, la autopista de Compostela a Tepic es un compromiso.</p>
+<p>Ampliar y modernizar el aeropuerto de Tepic, hacerlo un aeropuerto internacional para que no tengan que salir los turistas sólo por Vallarta, sino que tengan esta opción que va de la mano con el desarrollo del norte de la zona costera, del norte de Nayarit, que se tenga un aeropuerto internacional aquí en Tepic para darle más progreso a la capital del estado, que no se quede todo en el sur, sino que se atienda también el centro del estado.</p>
+<p>En el caso de las poblaciones más apartadas, pobres, las poblaciones indígenas, tengo el compromiso de dejarlas completamente comunicadas con los caminos que se requieren. Vamos a terminar el camino de La Yesca, vamos también a terminar el camino de Camotlán, todos los caminos de la sierra.</p>
+<p>Y se va a seguir aplicando la máxima, la estrategia, el criterio de que, por el bien de todos, primero los pobres. Las comunidades indígenas de Nayarit van a tener siempre atención especial.</p>
+<p>En el caso del norte del estado vamos a seguir con la construcción de los canales de riego. Ya puedo anunciar que se contemplan para el año próximo dos mil millones de pesos para lo que se conoce como el Canal Centenario y poder regar antes de que termine el gobierno más de 30 mil hectáreas en el norte de Nayarit.</p>
+<p>Y aquí en la capital, lo mismo. Así como estamos inaugurando este centro de rehabilitación, así también ya se autoriza para que la Secretaría de Salud empiece a construir el nuevo hospital público de Nayarit aquí, en Tepic.</p>
+<p>Todo esto y muchas otras acciones en apoyo al pueblo de Nayarit, que lo merece. Es como hacerle un homenaje a Baca Calderón, que fue el que inició en 1906 la Huelga de Cananea como dirigente, y de esa huelga surge el movimiento revolucionario. Él permaneció casi cinco años preso en San Juan de Ulúa, sale de la cárcel cuando triunfa el movimiento del presidente Madero, del Apóstol de la Democracia.</p>
+<p>Y es también un homenaje todo esto que estamos haciendo a Alejandro Gascón Mercado, otro nayarita destacadísimo, y muchos héroes anónimos de Nayarit. A todos ellos les estamos rindiendo este homenaje.</p>
+<p>Termino comentándoles que ha sido tan bueno el trabajo de Toño que estoy pensando, nada más quiero que me den tiempo porque luego me empiezan a presionar, con razón porque ese es el trabajo de un buen periodista, me empiezan a decir ‘¿y en dónde?’, pero yo voy a invitar a Toño a que nos siga apoyando en el gobierno federal.</p>
+<p>Bueno, pues muchas gracias a todas y a todos.</p>
+<p>---</p>
+
+			    </div>
+
+			    
+		    </div><!--/ .post-->
+
+			
+			
+			
+			
+		    
+        </article><!--/ .entry-->
+
+		
+
+	</section>
+
+	<aside id="sidebar" class="medium-4 large-4 columns"><div class="widget widget_metro_style">
+    <ul class="metro_container">
+        <li>
+	        <a
+		        		        style="color: #ffffff; background-color: #691c32"
+	            href="http://bit.ly/34xdTwf"><span>Conferencia de prensa matutina</span><i>Conferencia de prensa matutina</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/sala-de-prensa/%20"><span>Sala de prensa</span><i>Sala de prensa</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #691c32"
+                href="https://presidente.gob.mx/documentos/"><span>Documentos</span><i>Documentos</i>
+	        </a>
+        </li>
+        <li>
+	        <a
+		                        style="color: #ffffff; background-color: #595959"
+                href="https://presidente.gob.mx/gabinete-3-2/"><span>Gabinete</span><i>Gabinete</i>
+	        </a>
+        </li>
+    </ul>
+</div><!--/ .widget-container--><div id="media_image-13" class="widget widget_media_image"><a href="https://presidente.gob.mx/primer-informe-de-gobierno-2018-2019/"><img width="350" height="131" src="https://presidente.gob.mx/wp-content/uploads/2019/09/Boton-logo-informe.jpg" class="image wp-image-123636  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2019/09/Boton-logo-informe.jpg 350w, https://presidente.gob.mx/wp-content/uploads/2019/09/Boton-logo-informe-300x112.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" /></a></div><div id="media_image-12" class="widget widget_media_image"><a href="https://presidente.gob.mx/segundo-informe-de-gobierno-2020/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2020/09/LOGO-segundo-informe.jpg" class="image wp-image-134002  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2020/09/LOGO-segundo-informe.jpg 700w, https://presidente.gob.mx/wp-content/uploads/2020/09/LOGO-segundo-informe-300x102.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-11" class="widget widget_media_image"><a href="https://presidente.gob.mx/tercer-informe-de-gobierno/"><img width="700" height="238" src="https://presidente.gob.mx/wp-content/uploads/2021/09/Tercer-Informe-relieve.png" class="image wp-image-143117  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2021/09/Tercer-Informe-relieve.png 700w, https://presidente.gob.mx/wp-content/uploads/2021/09/Tercer-Informe-relieve-300x102.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></div><div id="media_image-10" class="widget widget_media_image"><a href="https://coronavirus.gob.mx/"><img width="1024" height="324" src="https://presidente.gob.mx/wp-content/uploads/2020/03/Institucional_3-1024x324.jpg" class="image wp-image-130680  attachment-large size-large" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://presidente.gob.mx/wp-content/uploads/2020/03/Institucional_3-1024x324.jpg 1024w, https://presidente.gob.mx/wp-content/uploads/2020/03/Institucional_3-300x95.jpg 300w, https://presidente.gob.mx/wp-content/uploads/2020/03/Institucional_3-768x243.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="linkcat-3502" class="widget widget_links"><h3 class="widget-title">Enlaces de interés</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="https://aprendeencasa.sep.gob.mx/">Aprende en casa II</a></li>
+<li><a href="http://www.atlasnacionalderiesgos.gob.mx/" target="_blank">Atlas Nacional de Riesgos &#8211; Cenapred</a></li>
+<li><a href="https://www.gob.mx/becasbenitojuarez">Becas Benito Juárez</a></li>
+<li><a href="https://www.gob.mx/">Gobierno de México</a></li>
+<li><a href="https://www.gob.mx/inapam/">INAPAM</a></li>
+<li><a href="https://portalmx.infonavit.org.mx/" target="_blank">Infonavit</a></li>
+<li><a href="https://coronavirus.gob.mx/">Información sobre COVID-19</a></li>
+<li><a href="https://www.gob.mx/insabi">Instituto de Salud para el Bienestar</a></li>
+<li><a href="https://jovenesconstruyendoelfuturo.stps.gob.mx/" target="_blank">Jóvenes Construyendo el Futuro</a></li>
+<li><a href="https://www.gob.mx/liconsa">Liconsa</a></li>
+<li><a href="http://pension.adultosmayores.bienestar.gob.mx/index" target="_blank">Pensión Adultos Mayores</a></li>
+<li><a href="https://www.planeandojuntos.gob.mx/">Planeando juntos</a></li>
+<li><a href="https://proequidad.inmujeres.gob.mx/public/index.html">Proequidad</a></li>
+<li><a href="https://reconstruyendoesperanza.gob.mx/">Programa Nacional de Reconstrucción</a></li>
+<li><a href="https://dosbocas.energia.gob.mx">Proyecto Refinería Dos Bocas</a></li>
+<li><a href="https://www.trenmaya.gob.mx/">Proyecto Tren Maya</a></li>
+<li><a href="https://mivacuna.salud.gob.mx/index.php">Registro vacuna contra COVID-19</a></li>
+<li><a href="https://www.gob.mx/sembrandovida" target="_blank">Sembrando Vida</a></li>
+<li><a href="http://imss.gob.mx/personas-trabajadoras-hogar">Trabajadoras del hogar &#8211; programa de afiliación al IMSS</a></li>
+
+	</ul>
+</div>
+</aside>
+
+	
+	<div id="subscribeDialog" class="dialog">
+		<div class="dialog-overlay"></div>
+		<div class="dialog-content">
+			<div class="morph-shape">
+				<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 560 280" preserveAspectRatio="none">
+					<rect x="3" y="3" fill="none" width="556" height="276"/>
+				</svg>
+			</div>
+			<div class="dialog-inner">
+				<p class="message"></p>
+				<i class="action-close" data-dialog-close>Close</i>
+			</div>
+			<div class="dialog-error" style="display: none;"></div>
+		</div>
+	</div>
+
+</main><!--/ #content -->
+
+<!-- - - - - - - - - - - - - end Main - - - - - - - - - - - - - - - - -->
+
+<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+	
+	<div class="footer-top">
+
+		<div class="row">
+
+			<div class="large-4 columns">
+
+				<div id="text-8" class="widget widget_text"><h3 class="widget-title">Contacto</h3>			<div class="textwidget"><p><strong>Andrés Manuel López Obrador</strong></p>
+<p><em>Presidente de México</em></p>
+<p><strong>t. 5093 4900</strong></p>
+<p><strong>t. 01800 080 1127</strong></p>
+<p>Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066</p>
+<p><a href="https://www.gob.mx/aviso_de_privacidad">Aviso de </a><a href="https://www.gob.mx/aviso_de_privacidad">privacidad</a></p>
+</div>
+		</div>
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+			<div class="large-4 columns">
+
+				
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-top-->
+
+	
+	<div class="footer-bottom">
+
+		<div class="row">
+
+			<div class="large-6 columns">
+				<div class="copyright">
+					Copyright &copy; 2022. All rights reserved				</div><!--/ .copyright-->
+			</div>
+
+			<div class="large-3 large-offset-3 columns">
+				<div class="developed">
+					Developed by <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+				</div><!--/ .developed-->
+			</div>
+
+		</div><!--/ .row-->
+
+	</div><!--/ .footer-bottom-->
+
+</footer><!--/ #footer-->
+
+<!-- - - - - - - - - - - - - end Footer - - - - - - - - - - - - - -->
+
+</div><!--/ #wrapper-->
+
+<!-- - - - - - - - - - - - end Wrapper - - - - - - - - - - - - - - -->
+
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/arqam/assets/js/scripts.js?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_content_composer/js/front.min.js?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' id='tmm_layout_constructor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/plugins/tmm_events_calendar/js/front.min.js?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' id='events_calendar_js-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-content/themes/diplomat/js/vendor-min.js?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' id='tmm_vendor-js'></script>
+<script type='text/javascript' src='https://presidente.gob.mx/wp-includes/js/wp-embed.min.js?ver=0d2be8b1b6e80d9ede2f321e2993bfe3' id='wp-embed-js'></script>
+
+</body>
+</html>
